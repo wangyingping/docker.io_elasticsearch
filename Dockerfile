@@ -1,1 +1,1 @@
-FROM docker.io/library/elasticsearch:6.8.13
+FROM docker.io/library/elasticsearch:6.8.15
